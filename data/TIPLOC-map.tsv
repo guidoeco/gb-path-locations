@@ -1,0 +1,135 @@
+NaPTAN	TIPLOC	Name	StopAreaCode
+		Arbourthorne Road (South Yorkshire Supertram)	940GZZSYABR
+ZZSYATT	ATTRCLI	Attercliffe (Sheffield Supertram)	940GZZSYATT
+		Bamforth Street (South Yorkshire Supertram)	940GZZSYBAM
+		Birley Moor Road (South Yorkshire Supertram)	940GZZSYBMR
+		Birley Lane (South Yorkshire Supertram)	940GZZSYBRL
+ZZSYFIZ	SHEFCAS	Castle Square (Sheffield Supertram)	940GZZSYCAS
+ZZSYCAT	SHEFCAT	Cathedral (Sheffield Supertram)	940GZZSYCAT
+ZZSYHYP	SHEFCIR	Cricket Inn Road (Sheffield Supertram)	940GZZSYCIR
+ZZSYCAS	BRGLCAR	Carbrook (Sheffield Supertram)	940GZZSYCRB
+		Crystal Peaks (South Yorkshire Supertram)	940GZZSYCRY
+		City Hall (South Yorkshire Supertram)	940GZZSYCYH
+		Beighton - Drake House Lane (S Yorks Supertram)	940GZZSYDHL
+		Donetsk Way (South Yorkshire Supertram)	940GZZSYDON
+		Arena - Don Valley (South Yorkshire Supertram)	940GZZSYDVS
+ZZSYCAT	SHEFARE	Sheffield Arena - Don Valley (Sheffield Supertram)	940GZZSYDVS
+ZZSYNUN	SHEFFIT	Fitzalan Sq - Ponds Forge (Sheffield Supertram)	940GZZSYFIZ
+		Gleadless Townend (South Yorkshire Supertram)	940GZZSYGLE
+		Granville Rd - Sheffield College (Supertram)	940GZZSYGRC
+		Hackenthorpe (South Yorkshire Supertram)	940GZZSYHAK
+		Herdings Park (South Yorkshire Supertram)	940GZZSYHDP
+		Halfway (South Yorkshire Supertram)	940GZZSYHFW
+		Hillsborough (South Yorkshire Supertram)	940GZZSYHIL
+		Hillsborough Park (South Yorkshire Supertram)	940GZZSYHLP
+		Herdings - Leighton Road (S Yorks Supertram)	940GZZSYHLR
+		Hollinsend (South Yorkshire Supertram)	940GZZSYHOL
+ZZSYPAR	SHEFHYD	Hyde Park (South Yorkshire Supertram)	940GZZSYHYP
+		Infirmary Road (South Yorkshire Supertram)	940GZZSYINF
+		Leppings Lane (South Yorkshire Supertram)	940GZZSYLEP
+		Langsett - Primrose View (S Yorks Supertram)	940GZZSYLPH
+		Malin Bridge (South Yorkshire Supertram)	940GZZSYMAL
+		Meadowhall Interchange (S Yorks Supertram)	940GZZSYMHI
+ZZSYCIR	TINSMEA	Meadowhall South - Tinsley (S Yorks Supertram)	940GZZSYMHS
+		Middlewood (South Yorkshire Supertram)	940GZZSYMID
+		Manor Top - Elm Tree (South Yorkshire Supertram)	940GZZSYMRT
+		Moss Way (South Yorkshire Supertram)	940GZZSYMWY
+		Netherthorpe Road (South Yorkshire Supertram)	940GZZSYNET
+ZZSYVEN	NNRYSQU	Nunnery Square (Sheffield Supertram)	940GZZSYNUN
+ZZSYPAR	PARKGAT	Parkgate (Sheffield Supertram)	940GZZSYPAR
+		Parkgate (South Yorkshire Supertram)	940GZZSYPAR
+		Park Grange Croft (South Yorkshire Supertram)	940GZZSYPGC
+		Park Grange (South Yorkshire Supertram)	940GZZSYPGR
+		Rotherham Station (South Yorkshire Supertram)	940GZZSYRTH
+		Shalesmoor (South Yorkshire Supertram)	940GZZSYSHL
+		Sheffield Station - Hallam Univ (Supertram)	940GZZSYSHU
+		Spring Lane (South Yorkshire Supertram)	940GZZSYSPL
+		University of Sheffield (S Yorks Supertram)	940GZZSYUNI
+ZZSYCRB	BRGLVAL	Valley Centertainment (Sheffield Supertram)	940GZZSYVEN
+ZZSYWBN	WDBRNRD	Woodbourn Road (Sheffield Supertram)	940GZZSYWBN
+		Westfield (South Yorkshire Supertram)	940GZZSYWTF
+		White Lane (South Yorkshire Supertram)	940GZZSYWTL
+		Waterthorpe (South Yorkshire Supertram)	940GZZSYWTR
+		West Street (South Yorkshire Supertram)	940GZZSYWTS
+BRS1	BRSTAIR	Bristol International Airport	920GBRS1
+CWL1	CRDFAIR	Cardiff International Airport	9200CWL1
+NX000919	LUTOBUS	Luton Airport Bus Station	900GNX000919
+LUTOAPY	LUTNAIR	Luton Airport Parkway Rail Station	910GLUTOAPY
+	EASTHAM	East Ham London Transport	940GZZLUEHM
+	HTRBUS2	Heathrow Airport Central Bus Station	900GNX000666
+	ALBNHRC	Albany Park - Hurst Road/Valentine Avenue	910GALBNHV
+	EDINAIR	Edinburgh Airport	940GZZEDAIR
+	WORCPHL	Worcestershire Parkway Rail Station HL	910GWORCPWY
+	STANBUS	Stansted Airport Coach Station	900GNX001372
+	BRNSTLT	Barons Court Underground Station	940GZZLUBSC
+	RHUM	Rum Ferry Terminal	930GKLH
+	EIGG	Eigg Ferry Terminal	930GGAL
+	MUCK	Muck Ferry Terminal	930GPTM
+	BSPSBUS	Bishops Lydeard-Lethbridge Arms Bus Stop	900GNX002643
+	DNSRSTP	Dunster-Dunster Steep Bus Stop	900GNX002650
+	WATCHET	Watchet (West Somerset Railway)	940GZZWSWAT
+	TWGWDLR	Tower Gateway DLR Station	940GZZDLTWG
+	SKENSIN	South Kensington Underground Station	940GZZLUSKS
+	HLWYRLT	Holloway Road Underground Station	940GZZLUHWY
+	HAMDLUL	Hammersmith (Dist&Picc Line) Underground Station	940GZZLUHSD
+	BRMNDSY	Bermondsey Underground Station	940GZZLUBMY
+	DGNHELT	Dagenham East Underground Station	940GZZLUDGE
+	DPTFBD	Deptford Bridge DLR Station	940GZZDLDEP
+	CCKFLUL	Cockfosters Underground Station	940GZZLUCKS
+	STKEYNV	St Keyne Wishing Well Halt (Rail Station)	910GSTKEYNE
+	SANWBUS	St. Andrews (Fife)-Bus Station	900GNX002725
+	DULOE	Causeland Rail Station	910GCAUSLND
+	TLBYRSD	Tilbury Riverside Ferry Terminal	930GTIL
+	EMPKAIR	East Midlands Airport Coach Stop	900GNX000475
+	HSFTLBD	Leeds Bradford Airport-Bus Stop	900GNX002593
+	EXETAIR	Exeter-Airport Terminal Bus Stop	900GNX002687
+	YORKWHT	Whitby- Bus Station Station Square	900GNX001703
+	WDBDGBS	Wadebridge Bus Station-The Link Road	900GNX001657
+	SESAA26	A26 near Southease Rail Station	910GSESARDM
+	MINEBUT	Minehead-Butlins Coach Stop	900GNX000987
+	MINEPAR	Minehead-Parade Coach Stop	900GNX002087
+	DONCRHA	Robin Hood Airport-Coach Stop	900GNX002595
+	PDSTWBT	Padstow Old Railway Station-Bus Terminus	900GNX002670
+	OKHMPWS	Okehampton-West Street Coach Stop	900GNX001082
+	PBRODMP	Dereham-Market Place Coach Stop	900GNX000422
+	AMSTDAM	AMSTERDAM C.S.	
+	ARMADLE	Armadale Ferry Terminal	930GARM
+	BLFSTPT	BELFAST PORT	
+	BRKNIOM	Birkenhead Ferry Terminal	930GBRK
+	BROADFO	Broadford-Post Office Coach Stop	900GNX000229
+	BDICK	Brodick Isle of Arran Ferry Terminal	930GBRB
+	BUDESTD	Bude-Strand Coach Stop	900GNX000244
+	CNRYNP	Cairnryan Ferry Terminal	930GCYN
+	CANNA	Canna Ferry Terminal	930GCAN
+	CSBY	Castlebay Barra Ferry Terminal	930GCBA
+	CHLTRAC	Cheltenham Racecourse (Gloucs Warwicks Railway)	940GZZGRCRC
+	COLL	Coll Ferry Terminal	930GCOL
+	COLONSY	Colonsay Ferry Terminal	930GCSY
+	CRGURE	Craignure Mull Ferry Terminal	930GCNU
+	CUMBRAE	Cumbrae Ferry Terminal	930GCUM
+	DOUGLAS	DOUGLAS (ISLE OF MAN)	
+	DUBLINF	DUBLIN FERRYPORT	
+	DUBLFST	DUBLIN PORT - STENA	
+	DUNOON	Dunoon-Ferry Terminal	930GDNU
+	GLGAPT	Glasgow Airport Coach Stops	900GNX000591
+	HOEKVHL	HOEK VAN HOLLAND	
+	LISMORE	Lismore Ferry Terminal	930GLMR
+	LVRPLSG	Liverpool Isle of Man & Dublin Terminal	930GLID
+	LCHBSDL	Lochboisdale South Uist Ferry Terminal	930GLBS
+	LCHMADY	Lochmaddy North Uist Ferry Terminal	930GLMA
+	MELROSE	Melrose-Square Coach Stop	900GNX000964
+	PBROUND	Oundle- Market Place Coach Stop	900GNX002433
+	PNZQUAY	Penzance Ferry Terminal	930GPEN
+	PBROBST	Peterborough-Queensgate Bus Station	900GNX001141
+	ROSLARE	ROSSLARE HARBOUR	
+	RSAY	Rothesay Ferry Terminal	930GRAY
+	STMAQUY	ST. MARYS QUAY	
+	STWY	Stornoway Lewis Ferry Terminal	930GSTO
+	TARBERT	Tarbert (Harris) Ferry Terminal	930GTAB
+	TIREE	Tiree Ferry Terminal	930GTRE
+	UIGG	Uig Skye Ferry Terminal	930GUIG
+	ULLAPOL	Ullapool Ferry Terminal	930GULL
+	YMTHIOW	Yarmouth IOW Ferry Terminal	930GYMO
+	HLSTCOI	Helston-Coinagehall Street Coach Stop	900GNX000673
+	GOURPIE	Gourock Ferry Terminal	930GGUR
+	GRVSWSP	Gravesend West Street Pier	930GGVS
