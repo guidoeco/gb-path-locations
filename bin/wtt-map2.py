@@ -150,6 +150,7 @@ print('TIPLOCs: {} of {}'.format(N - get_found(), N))
 
 IDX0 = LOCATIONS[LOCATIONS['Description'].isna()].index
 LOCATIONS.loc[IDX0, 'Description'] = NAMES.loc[IDX0, 'Description']
+LOCATIONS[['latitude', 'longitude']] = LOCATIONS['_location_'].str.split(',', expand=True).fillna('')
 LOCATIONS.fillna('').reset_index().to_csv('locations-report.tsv', sep='\t', index=False)
 
 def get_transport(tiploc):
