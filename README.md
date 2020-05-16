@@ -1,6 +1,6 @@
 # GB Path Locations
 
-The British railway timetable works on TIPLOCs but where many of these are isn't always clear. This project creates a `location-
+The British railway timetable works on TIPLOCs but where many of these are isn't always clear. Of about 6,568 TIPLOCs in a working timetable this collact a `location-report.tsv` file containing longitude and latitude for about 6,437 (131 missing locations) corresponding to about 0.022% of allocated TIPLOC-paths.
 
 ## Overview
 
